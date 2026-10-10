@@ -38,11 +38,14 @@ Prompt (5)
 En el caso de querer modificar los estilos de la vista del sistema, para que no sea genericamente blanco. Que tipo de estructura le debo hacer a cada label, comboBox o el boton. Y ademas que posibilidades tengo de modificar el fonto a diseños de patrones.
 
 Prompt (6)
+Al momento de ejecutar, ya la dirección del ejecutable de Maven esta correcto, al ejecutar por mvn todo sale bien.
+Sin embrago tengo una pregunta, esto funciona ya que cuenta con la direccion local del maven, pero, como puede ser ejecutable desde un equipo diferente?
 
 Prompt (7)
+Cual sería la mejor alternativa, dado que necesito que este sistema sea ejecutable en cualquier equipo, de momento puede ser solo en mi maquina de laboratorio. Dado que el trabaja de manera local con la dirección del Maven (en mi equipo) en las variables del path, pero esta configuración no va a estar igual de establecida en ningún otro equipo. 
 
 Prompt (8)
+Si contruye ese ejecutable, bajo el .exe, puedo psara simplemente el archivo.exe tal cual, o podría a ver algún tipo de dependencia al programa ejecutable como tal, ya que no le construí un instalador para no profundizar en este laboratorio inicial.
 
 Prompt (9)
-
-Prompt (10)
+Ya que tengo la carpeta dist, donde se genero el sistemaSaludador.exe, todo dentro de una carpeta que esta conectada a un repositorio de GitHub. Si otro miembro de un equipo de desarrollo quiere ejecutarlo, ya es solo por medio de clonar el repo, o incluso solo el ejecutable, aclárame si estoy en lo correcto. 
