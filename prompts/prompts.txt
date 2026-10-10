@@ -1,0 +1,46 @@
+Prompt (1)
+Actúa como un desarrollador de software con experiencia en Java, JavaFX y diseño orientado a objetos. Vamos a construir un prototipo académico para un laboratorio de Ingeniería de Software. 
+Contexto: El sistema es un “Sistema Saludador” y su caso de uso principal es “Solicitar saludo”. El objetivo es permitir que un estudiante reciba un saludo personalizado que incluya su nombre y edad.
+1. El estudiante pulsa el botón “Solicitar saludo”.
+2. El sistema solicita el nombre, la edad y la selección de hora AM o PM.
+3. El estudiante ingresa los datos solicitados.
+4. El sistema presenta un saludo personalizado utilizando el nombre y la edad ingresados.
+No es necesario consultar la hora real del sistema.
+Restricciones tecnológicas
+Lenguaje: Java.
+Interfaz gráfica: JavaFX.
+El proyecto debe ser sencillo, comprensible y apropiado para un estudiante de Ingeniería de Software.
+No utilizar frameworks adicionales innecesarios.
+Forma de trabajo
+Antes de generar código, analiza los requisitos y explícame:
+Qué componentes necesita la interfaz.
+Qué clases o archivos debería tener el proyecto.
+Cómo se organizaría el código y qué responsabilidad tendría cada componente.
+Qué herramientas o dependencias se necesitan para ejecutar JavaFX.
+Cómo se compilará y ejecutará el programa.
+No generes todavía todos los archivos del proyecto. Primero presenta el análisis, identifica posibles dificultades y espera mi confirmación.
+Quiero aprender durante el proceso. Explica las decisiones técnicas con un lenguaje claro, sin asumir que ya domino JavaFX. 
+Como se compilara y ejecutara el programa.
+No generes todavía todos los archivos del proyecto. Primero presenta el análisis, identifica posibles dificultades y espera mi confirmación.
+Quiero aprender durante el proceso. Explica las decisiones técnicas con un lenguaje claro, sin asumir que ya domino JavaFX.
+
+Prompt (2)
+Ahora crea la estructura mínima del proyecto para el sistema saludador, utilizando Java y JavaFX. Antes de crear los archivos, explícame si recomiendas Maven o Gradle y por qué. Elige una alternativa sencilla y configura las dependencias necesarias de JavaFX. Organiza el proyecto de forma clara, separando el código fuente de los archivos de configuración. Crea únicamente los archivos necesarios para ejecutar el prototipo.
+Muéstrame la estructura de carpetas y explica la función de cada archivo. No agregues funcionalidades que no estén relacionadas con el caso de uso.
+
+Prompt (3)
+Y en el caso en que lo estoy ejecutando desde visual code? es igual de necesario la intervencion de toda la estructura que me planteas?
+
+Prompt (4)
+
+Prompt (5)
+
+Prompt (6)
+
+Prompt (7)
+
+Prompt (8)
+
+Prompt (9)
+
+Prompt (10)
