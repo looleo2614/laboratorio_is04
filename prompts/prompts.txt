@@ -32,8 +32,10 @@ Prompt (3)
 Y en el caso en que lo estoy ejecutando desde visual code? es igual de necesario la intervencion de toda la estructura que me planteas?
 
 Prompt (4)
+La estructura como se acoplaria si unicamente voy a manejar un Main.java, ya que el sistema es sencillo.
 
 Prompt (5)
+En el caso de querer modificar los estilos de la vista del sistema, para que no sea genericamente blanco. Que tipo de estructura le debo hacer a cada label, comboBox o el boton. Y ademas que posibilidades tengo de modificar el fonto a diseños de patrones.
 
 Prompt (6)
 
